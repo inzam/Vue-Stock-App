@@ -1,6 +1,9 @@
 # stock-trader
 
 > A Vue.js project
+> Simple Vue.js app to manage stocks
+> Using firebase for database
+> Sell and Buy stocks 
 
 ## Build Setup
 
